@@ -1,5 +1,3 @@
-## Welcome to my page
+### Welcome to my page
 
-# Header 1
-## Header 2
-### Header 3
+### [Link to my Github page](https://github.com/AlexandraLivadas)
