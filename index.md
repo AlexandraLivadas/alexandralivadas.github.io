@@ -6,4 +6,4 @@ layout: default
 
 [My Github Homepage](https://github.com/AlexandraLivadas)
 
-GSOC 2019
+[GSOC 2019](/pages/gsoc-2019.md)
