@@ -6,19 +6,9 @@ layout: default
 
 # Links
 
-[GSOC 2019](/pages/gsoc-2019.md)
+August 26, 2019 { color: grey }
+### [GSOC 2019](/pages/gsoc-2019.md)
 
    
 
-
-
-
-
-
-
-Text
-text
-text  
-
-  
 
