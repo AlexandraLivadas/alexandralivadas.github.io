@@ -2,5 +2,5 @@
 layout: default
 ---
 
-![Profile](/assets/profile.png)
+<img src="/assets/profile.png" width="60">
 
