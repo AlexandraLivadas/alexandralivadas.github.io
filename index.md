@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Profile](/assets/profile.png# thumbnail bordered)
+![Profile](/assets/profile.png# profile bordered)
 
 # Links
 
