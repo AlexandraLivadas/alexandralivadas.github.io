@@ -4,8 +4,8 @@
 @import "{{ site.theme }}";
 
 img[src~="thumbnail"] {
-   width:150px;
-   height:150px;
+   width:250px;
+   height:250px;
    border-radius: 50%;
 }
 img[src~="bordered"] {
