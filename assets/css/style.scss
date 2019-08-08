@@ -5,7 +5,8 @@
 
 img[src~="thumbnail"] {
    width:150px;
-   height:100px;
+   height:150px;
+   border-radius: 50%;
 }
 img[src~="bordered"] {
    border: 1px solid black;
