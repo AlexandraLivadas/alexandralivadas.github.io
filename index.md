@@ -2,5 +2,5 @@
 layout: default
 ---
 
-<img src="/assets/profile.png" width="200">
+![Profile](/assets/profile.png# thumbnail bordered)
 
