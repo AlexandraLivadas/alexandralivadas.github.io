@@ -2,5 +2,5 @@
 layout: default
 ---
 
-<img src="/assets/profile.png" width="100">
+<img src="/assets/profile.png" width="200">
 
