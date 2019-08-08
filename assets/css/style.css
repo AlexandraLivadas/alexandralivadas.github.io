@@ -1,3 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+
 img[src~="thumbnail"] {
    width:150px;
    height:100px;
@@ -5,4 +10,3 @@ img[src~="thumbnail"] {
 img[src~="bordered"] {
    border: 1px solid black;
 }
-
