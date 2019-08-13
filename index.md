@@ -14,6 +14,7 @@ layout: default
 
 # Contact Information
 My personal e-mail: alexandralivadas@gmail.com
+
 My McGill University e-mail: alexandra.livadas@mail.mcgill.ca
 
 
