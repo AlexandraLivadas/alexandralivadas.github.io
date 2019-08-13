@@ -4,7 +4,7 @@ layout: default
 
 ![Profile](/assets/profile.png# profile bordered)
 
-# Links
+## Links
 
 ### [My GitHub Profile](https://github.com/AlexandraLivadas)
 
@@ -12,7 +12,7 @@ layout: default
 
 ### [GSOC 2019](/pages/gsoc-2019.md)
 
-# Contact Information
+## Contact Information
 My personal e-mail: alexandralivadas@gmail.com
 
 My McGill University e-mail: alexandra.livadas@mail.mcgill.ca
