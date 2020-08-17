@@ -12,6 +12,8 @@ layout: default
 
 ### [GSOC 2019](/pages/gsoc-2019.md)
 
+### [GSOC 2020](/pages/gsoc-2020.md)
+
 ## Contact Information
 My personal e-mail: alexandralivadas@gmail.com
 
